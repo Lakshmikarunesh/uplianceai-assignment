@@ -1,4 +1,4 @@
-# Dynamic Form Builder for upliance.ai
+# Dynamic Form Builder upliance.ai Assignment
 
 A comprehensive, production-grade dynamic form builder application built with React, TypeScript, Material UI, Redux, and localStorage. This application allows users to create, configure, preview, and manage dynamic forms with advanced features like derived fields, validation rules, and drag-and-drop reordering.
 
@@ -219,35 +219,3 @@ Redux-based state management:
 - **Single Device**: Data doesn't sync across devices
 - **No Collaboration**: Single-user application
 - **Browser Dependency**: Data tied to specific browser
-
-## 🚀 Future Enhancements
-
-- **Export/Import**: JSON export/import functionality
-- **Form Templates**: Pre-built form templates
-- **Advanced Validation**: Regex-based custom validation
-- **Conditional Fields**: Show/hide fields based on other field values
-- **Multi-step Forms**: Wizard-style form creation
-- **Form Analytics**: Usage statistics and completion rates
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **upliance.ai** for the project requirements
-- **Material UI** team for the excellent component library
-- **Redux Toolkit** for simplified state management
-- **React** team for the amazing framework
-
----
-
-Built with ❤️ for upliance.ai using React, TypeScript, Material UI, and Redux.
